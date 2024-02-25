@@ -3,9 +3,9 @@
 I'm Abdullah, you can call me D8LS
 
 - Hobby developer
-mainly developing in JS and Python. Trying to improve JS and Python skills. I like making things! Through code, all things are possible!
+mainly developing in  Python. Trying to improve Python skills. I like making things! Through code, all things are possible!
 
-- I'm from Saudi Arabia
+- I'm from Saudi Arabia <img src="https://sowargif.com/wp-content/uploads/2017/08/sa1%20(11).gif" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=D8LS1&show_icons=true&hide_title=true&theme=chartreuse-dark" />
 
