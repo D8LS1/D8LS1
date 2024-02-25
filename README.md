@@ -10,7 +10,7 @@ mainly developing in JS and Python. Trying to improve JS and Python skills. I li
 <img src="https://github-readme-stats.vercel.app/api?username=D8LS1&show_icons=true&hide_title=true&theme=chartreuse-dark" />
 
 ------------
-<img src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white "/> <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white "/> /> <img src="https://img.shields.io/badge/python-v3.12.2-blue "/>
+<img src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white "/> <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white "/> <img src="https://img.shields.io/badge/python-v3.12.2-blue "/>
 
 
 
