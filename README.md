@@ -3,7 +3,7 @@
 I'm Abdullah, you can call me D8LS
 
 - Hobby developer
-mainly developing in  Python. Trying to improve Python skills. I like making things! Through code, all things are possible!
+mainly developing in  Python Trying to improve Python skills I like making things! Through code all things are possible!
 
 
 
