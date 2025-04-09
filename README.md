@@ -3,8 +3,7 @@
 I'm Abdullah, you can call me D8LS
 
 - Hobby developer
-mainly developing in  Python Trying to improve Python skills I like making things! Through code all things are possible!
-
+I write Lua scripts, I usually develop anti-cheat scripts
 
 
 
@@ -24,5 +23,5 @@ mainly developing in  Python Trying to improve Python skills I like making thing
 ------------
 
 ### Where to find me:
-[<img src="https://img.shields.io/badge/GitHub-%2312100E.svg" />](https://github.com/D8LS1) [<img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord.svg" />](https://discord.com/users/1108467764307447883)
+[<img src="https://img.shields.io/badge/GitHub-%2312100E.svg" />](https://github.com/D8LS1) [<img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord.svg" />](https://discord.com/users/481886017150779394)
 
